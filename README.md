@@ -4,12 +4,15 @@ This repository contains the draft Style Guide for Data.gov, the home of the U.S
 
 Read the Data.gov Style Guide
 
+
 ## Credits   
-This policy was originally forked from the UK Government Digital Service's [Content Style Guide](https://www.gov.uk/design-principles/style-guide). 
+
+* This policy was originally forked from the UK Government Digital Service's [Content Style Guide](https://www.gov.uk/design-principles/style-guide). 
+* Theme is based on [pixyll](https://github.com/johnotander/pixyll)
 
   
-
 ## Contributing
+
 Content and feature suggestions are welcome via GitHub Issues or pull request, although we can’t guarantee your changes will be included.
 
 See [Data.gov Readme](https://github.com/GSA/data.gov/blob/master/README.md) for additional information.

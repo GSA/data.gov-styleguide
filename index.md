@@ -1,4 +1,8 @@
-# Data.gov Style Guide (Draft)
+---
+layout: page
+title: (Draft)
+permalink: /
+---
 
 ## Writing for Data.gov
 Data.gov is the federal government’s open data portal, providing access to datasets from nearly 100 federal agencies. Many non-federal sources, such as state and local government data, are also discoverable on Data.gov. Data.gov features highlights and updates on recent federal government data releases and events. There are several Data.gov Topics on issues such as education, climate, and public safety where users can find curated datasets and content. As there are many agencies contributing content to Data.gov, this style guide is intended to help us make all Data.gov information readable and understandable. This style guide borrows from the [UK's Style Guide](https://www.gov.uk/design-principles/style-guide) and will be updated as Data.gov evolves. *We welcome suggestions and feedback!*

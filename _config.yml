@@ -1,0 +1,16 @@
+# Site settings
+title: Data.gov Style Guide
+email: 
+author: Data.gov Team
+description: "Data.gov Style Guide for writing"
+baseurl: ""
+url: "http://gsa.github.io/data.gov-styleguide"
+google_analytics:
+animated: false
+show_related_posts: false
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+sass:
+  compressed: true
