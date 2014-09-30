@@ -139,3 +139,7 @@ Legal content can still be written in plain English. It's important that users u
 Websites shouldn’t include “http://” at the beginning or “/” at the end.
 
 Data.gov should be capitalized accordingly.
+
+##Help improve this content
+
+Content suggestions are welcome, although we can’t guarantee your changes will be included. To suggest inline edits, simply log in to GitHub, and click the pencil icon of [this file](https://github.com/GSA/data.gov-styleguide/blob/gh-pages/index.md), or to commit, open a New Issue [here](https://github.com/GSA/data.gov-styleguide/issues).
